@@ -6,6 +6,7 @@ public class TestMain {
 		a.A();a.AA();
 		C c = new C();
 		c.AA();
+		//========================================>>>>test zangbx account!
 	}
 }
 
